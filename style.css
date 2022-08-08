@@ -1,0 +1,82 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(48, 48, 48);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+h1{
+    width: 500px;
+    color: white;
+    position: relative;
+    text-align: center;
+    left: 210px;
+}
+
+
+video{
+    position: relative;
+    left: 210px;
+    width: 500px;
+}
+
+ ul{
+     width: 500px;
+     position: absolute;
+     top: 0%;
+     color: white;
+ }
+
+h2{
+    text-align: center;
+    width: 500px;
+    position: relative;
+    color: white;
+    left: 210px;
+    
+}
+h3{
+    text-align: center;
+    width: 500px;
+    position: relative;
+    color: white;
+    left: 210px;
+}
+p{
+    text-indent: 30px;
+    position: relative;
+    color: white;
+    text-align: justify;
+    width: 500px;
+    left: 210px;
+}
+img{
+    position: relative;
+    left: 210px;
+    
+}
+a{
+    color: rgb(216, 109, 109);
+    font-family: Iler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-mpact, Haettenschweiserif;
+}
+
+ins{
+    color: white;
+}
+
+
+
+
+.Fotos{
+    position: absolute;
+    left: 750px;
+    border-radius: 150px;
+}
+
+div{
+    background-color: white;
+    width: 500px;
+    position: absolute;
+}
